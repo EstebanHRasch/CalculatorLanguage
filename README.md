@@ -1,8 +1,4 @@
-# Project
-
-Follow the [instructions](INSTRUCTIONS.md), use this space to document your project for yourself and the graders.
-
-## Names
+# Project Authors
 Esteban Hernandez;
 Elyse Kaczmarek;
 Paul Menexas;
