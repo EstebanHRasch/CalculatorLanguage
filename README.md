@@ -3,9 +3,9 @@
 Follow the [instructions](INSTRUCTIONS.md), use this space to document your project for yourself and the graders.
 
 ## Names
-Elyse Kaczmarek U65134290;
-Paul Menexas U78320172;
-Esteban Hernandez U07466539;
+Esteban Hernandez;
+Elyse Kaczmarek;
+Paul Menexas;
 
 
 ## Summary
