@@ -1,0 +1,22 @@
+euler3 {
+	number := 600851475143;
+	resNum := number;
+	largestFact := 0;
+	
+	counter := 2;
+	while (counter * counter <= resNum) {
+	
+		if (resNum % counter == 0) {
+			resNum := resNum / counter;
+			largestFact := counter;
+		};
+		if (resNum % counter != 0) {
+			counter := counter + 1;
+		};
+	};
+	
+	if (resNum > largestFact) {
+		largestFact := resNum;
+	};
+	return largestFact;
+}

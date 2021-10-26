@@ -1,0 +1,14 @@
+euler6 {
+	sum := 0;
+	squared := 0;
+	result := 0;
+	
+	n := 100;
+	
+	sum := n * (n + 1) / 2;
+	squared := (n * (n + 1) * (2 * n + 1)) / 6;
+	
+	result := sum * sum - squared;
+	
+	return result;
+}
